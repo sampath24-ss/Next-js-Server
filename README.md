@@ -1,1 +1,1 @@
-Learning guide for GitHub.
+Learning guide for Next.js.
